@@ -5,7 +5,7 @@
 1. Then __paste the tictactoe code__ from __tictactoe.js__ inside of it 
 1. __press run code to begin__.
 1. To stop, press stop. 
-### Please feel free to play around with the code in the[ __tictactoemod.js__](https://github.com/boriyanc/ticTacToe/blob/master/tictactoemod.js).
+### Please feel free to play around with the code 
   
 
 
