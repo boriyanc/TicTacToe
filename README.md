@@ -9,6 +9,7 @@
 1. __press run code to begin__.
 ![](run.jpg)
 1. To stop, press stop. 
+![](stop.jpg)
 ### Please feel free to play around with the code 
   
 
